@@ -1,0 +1,6 @@
+[submodule "backend_meetly"]
+	path = backend_meetly
+	url = https://github.com/aidacarabot/MeetlyDB.git
+[submodule "frontend_meetly"]
+	path = frontend_meetly
+	url = https://github.com/aidacarabot/MeetlyFront.git
